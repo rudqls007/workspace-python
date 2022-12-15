@@ -34,7 +34,7 @@ print(' 1 ~ 100 합 : ', sum(range(1, 101)))
 print(' 1 ~ 100 안에 3의 배수의 합 : ', sum(range(3, 101, 3)))
 
 
-# 시퀀ㅅ(순서가 있는) 자료형
+# 시퀀스(순서가 있는) 자료형
 # 문자열, 리스트, 튜플, 사진, 집합
 # iterable 리턴함수 : ragne(), reversed(), enumerate(), filter(), map()....
 
